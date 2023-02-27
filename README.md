@@ -4,7 +4,7 @@ Son çıkan adidas modellerinin tanıtım paltformu
 
 <h2>Kullanılan teknolojiler</h2>
 
-HTML5 ve CSS^ile animasyon teknikleri
+HTML5 ve CSS3 ile animasyon teknikleri
 
 <h2>Ekran Gifi</h2>
 
